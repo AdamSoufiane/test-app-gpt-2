@@ -1,0 +1,1 @@
+This feature involves creating a user registration API in a Spring Boot application following the Hexagonal Architecture. It includes defining entities for user details, application services to handle registration logic, ports for abstraction, and adapters for database and messaging interaction. The
